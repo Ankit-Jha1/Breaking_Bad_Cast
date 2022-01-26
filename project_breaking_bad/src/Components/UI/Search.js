@@ -20,5 +20,4 @@ const Search = ({getQuery}) => {
       </section>
   )
 };
-
 export default Search;
